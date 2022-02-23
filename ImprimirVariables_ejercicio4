@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main() {
+	
+	int puntos = 100;
+	char sexo = 'm';
+	float tiempo = 10.26;
+	double distancia = 1020.56;
+	
+	printf ("Tiemp : %f, Dist : %lf", tiempo, distancia);
+	
+	return 0;
+}
